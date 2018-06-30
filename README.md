@@ -2,6 +2,12 @@
 
 ### Grupo: Asesoftware-047
 
-# Descripción del proyecto:
+### Integrantes:
 
-# Funciones básicas
+- Juan Nicolás Martínez Fagua
+- Cristian Camilo Benavides Ramon
+- Miguel Angel Mora Miranda
+
+## Descripción del proyecto:
+
+## Funciones básicas
