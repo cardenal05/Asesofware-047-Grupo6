@@ -20,3 +20,4 @@ La aplicación será un puente de comunicación entre la comunidad que se ve afe
 * Mapa virtual de visualización de las denuncias que permita realizar filtros específicos.
 * Foro de interacción entre la comunidad
 * Chat de orientación para personas que se encuentras inmersas en la problemática de consumo de estupefacientes.
+
